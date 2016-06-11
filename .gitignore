@@ -1,0 +1,14 @@
+.settings/
+.bin/
+project/
+target/
+.cache-main
+.classpath
+.project
+*.class
+.mtj.tmp/
+*.jar
+*.war
+*.ear
+#machine crash
+hs_err_pid*
